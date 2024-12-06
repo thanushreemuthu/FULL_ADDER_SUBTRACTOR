@@ -55,6 +55,7 @@ FULL SUBTRACTOR
 **Program:**
 
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
 Developed by:THANUSHREE M RegisterNumber:24900590
 
 ```module fa(a,b,cin,sum,carry);
