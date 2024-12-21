@@ -40,10 +40,14 @@ Borrow out = A'Bin + A'B + BBin
 
 FULL ADDER
 
-![full_adder_tt](https://github.com/user-attachments/assets/502982d8-6356-43d2-b989-f21a25911f01)
+![ha tt](https://github.com/user-attachments/assets/5236ac27-a335-4135-b78a-8db84a4506c7)
+
+
 
 FULL SUBTRACTOR
-![Full Subtractor](https://github.com/user-attachments/assets/550c3156-2701-4288-a9f9-d5feb34f6976)
+
+![hs tt](https://github.com/user-attachments/assets/bddcce6e-b2b6-4fea-b3f9-2476635ce48c)
+
 
 **Procedure**
 1. Type the program in Quartus software.
